@@ -1,0 +1,12 @@
+{
+  "representative_all_v1_accuracy": 0.593714,
+  "representative_all_d28_accuracy": 0.602584,
+  "department_all_v1_accuracy": 0.611763,
+  "department_all_d28_accuracy": 0.618453,
+  "representative_signal3_delta_pp": 9.482491,
+  "department_signal3_delta_pp": 3.580081,
+  "representative_signal3_coverage": 0.07973,
+  "department_signal3_coverage": 0.103117,
+  "hm_v1_accuracy": 0.43518094834827864,
+  "hm_d28_accuracy": 0.500656
+}

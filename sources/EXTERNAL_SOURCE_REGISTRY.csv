@@ -1,0 +1,10 @@
+type,author_org,title,year,venue,url,relevance
+academic,El-Yaniv & Wiener,On the Foundations of Noise-free Selective Classification,2010,JMLR,https://www.jmlr.org/papers/v11/el-yaniv10a.html,Selective classification; risk-coverage trade-off
+academic,Gama et al.,A Survey on Concept Drift Adaptation,2014,ACM Computing Surveys,https://doi.org/10.1145/2523813,Concept drift definitions and adaptation
+academic,"Fildes, Ma & Kolassa",Retail forecasting: Research and practice,2022,International Journal of Forecasting,https://www.sciencedirect.com/science/article/abs/pii/S016920701930192X,Retail forecasting complexity
+academic,"Fildes, Kolassa & Ma",Post-script—Retail forecasting: Research and practice,2022,International Journal of Forecasting,https://www.sciencedirect.com/science/article/pii/S0169207021001618,Disruption and structural change
+academic,Swaminathan & Venkitasubramony,Demand forecasting for fashion products: A systematic review,2024,International Journal of Forecasting,https://www.sciencedirect.com/science/article/pii/S0169207023000134,Fashion forecasting challenges
+academic,Viniski et al.,A case study of batch and incremental recommender systems in supermarket data under concept drifts and cold start,2021,Expert Systems with Applications,https://www.sciencedirect.com/science/article/pii/S0957417421003316,Supermarket concept drift / streaming adaptation
+industry,Stitch Fix,Algorithms Tour,ongoing,Company technical publication,https://algorithms-tour.stitchfix.com/,"Client states, transitions, demand modeling"
+industry,Instacart,Supercharging ML/AI Foundations at Instacart,2023,Company technical publication,https://company.instacart.com/tech-innovation/supercharging-ml-ai-foundations-at-instacart,"Production ML for demand, recommendations, personalization"
+industry,McKinsey,The State of Grocery Retail Europe 2026,2026,Industry report,https://www.mckinsey.com/industries/retail/our-insights/state-of-grocery-europe-report,AI priority vs measured EBIT impact

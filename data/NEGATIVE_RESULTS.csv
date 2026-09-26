@@ -1,0 +1,7 @@
+test,cohort,test_accuracy,v1_accuracy,d28_accuracy,result,publication_boundary
+Binary regime gate,Representative,0.6024608390571725,0.5937144833720414,0.6025843751544201,Improves over V1; below all-D28,Do not deploy as superiority claim
+Binary regime gate,Department Challenge,0.6160657284814167,0.6117633996724678,0.6184528270463818,Improves over V1; below all-D28,Do not claim switching beats D28
+Linear state weighting,Representative,0.6020655235459801,0.5937144833720414,0.6025843751544201,21 fewer correct than D28,Stopped
+Linear state weighting,Department Challenge,0.6190079662475366,0.6117633996724678,0.6184528270463818,20 more correct than D28; uncertainty crosses zero,Not robust
+Promotion / merchandising attribution,Both,,,,Resolved subset did not support promotion as primary explanation; coverage highly incomplete,"Unresolved, stopped"
+W54–W102 temporal holdout,Grocery,,,,Raw source failed frozen CJ9 identity reconstruction,Route closed until true ETL/provenance exists

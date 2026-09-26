@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the archived Phase 2 report."
+title: "When History Stops Working: Selective Prediction and Regime Resilience in Consumer Forecasting"
+type: report
+authors:
+  - family-names: "Lin"
+    given-names: "Ting-Yi"
+    orcid: "https://orcid.org/0000-0002-1018-8735"
+version: "1.0.0"
+date-released: "2026-09-26"
+repository-code: "https://github.com/Ting-YiLin/mrsp-phase2-regime-resilience"
+doi: "10.5281/zenodo.22969898"
+url: "https://doi.org/10.5281/zenodo.22969898"

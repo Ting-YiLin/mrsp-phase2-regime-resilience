@@ -1,0 +1,4 @@
+component,question,inputs,operational_role,not_claimed
+P1 predictability score,Should this event be predicted at all?,Pre-event household behavior,Accuracy-coverage selection,Not historical-validity monitoring
+D28 recent-market prior,What does the recent market say?,Strictly prior 28-day other-household market behavior,Prediction prior with fresher market state,Not proven universally optimal
+Regime signals,Is long-run market history becoming fragile?,"Distribution shock, leader switch, local old-leader absence proxy",Historical-validity risk / D28 rescue mapping,Not a causal mechanism or validated router

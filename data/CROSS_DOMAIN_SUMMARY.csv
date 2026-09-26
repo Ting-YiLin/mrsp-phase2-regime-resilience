@@ -1,0 +1,7 @@
+result,domain,model,events,accuracy,delta_vs_v1,net_wins,evidence_status
+H&M frozen V1 external replication,H&M fashion,V1 cumulative,292846,0.43518094834827864,,,Independent frozen V1 test
+H&M D28 development,H&M fashion,D28 cumulative,292846,0.5006556347021984,0.06547468635391979,,Development on same H&M data; not external validation
+Grocery Representative V1,Grocery,V1,40474,0.5937144833720414,,,Previously studied panel
+Grocery Representative D28,Grocery,D28,40474,0.6025843751544201,0.00886989178237881,359.0,Frozen back-transfer from H&M discovery
+Grocery Department Challenge V1,Grocery,V1,36027,0.6117633996724678,,,Secondary cohort
+Grocery Department Challenge D28,Grocery,D28,36027,0.6184528270463818,0.006689427373914009,241.0,No retuning of D28 window

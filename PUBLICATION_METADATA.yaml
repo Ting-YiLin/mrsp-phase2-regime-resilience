@@ -1,0 +1,43 @@
+schema_version: "1.0"
+project:
+  short_name: "MRSP Phase 2"
+  full_title: "When History Stops Working: Selective Prediction and Regime Resilience in Consumer Forecasting"
+  subtitle: "Why knowing what to predict is not enough - and how recent market signals can protect forecasts when historical patterns begin to fail"
+  version: "1.0.0"
+  publication_date: "2026-09-26"
+  goal: "Practitioner-facing empirical research and decision framework"
+author:
+  public_name: "Ting-Yi Lin"
+  chinese_name: "林庭億"
+  orcid: "0000-0002-1018-8735"
+  affiliation: "Independent Researcher"
+repository:
+  provider: "GitHub"
+  owner: "Ting-YiLin"
+  repo_name: "mrsp-phase2-regime-resilience"
+  public_url: "https://github.com/Ting-YiLin/mrsp-phase2-regime-resilience"
+  target_visibility: "public"
+archive:
+  provider: "Zenodo"
+  doi: "10.5281/zenodo.22969898"
+  doi_url: "https://doi.org/10.5281/zenodo.22969898"
+  record_url: "https://zenodo.org/uploads/22969898"
+  resource_type: "publication/report"
+preprint:
+  provider: "SSRN"
+  submission_id: "RETURN_AFTER_SUBMISSION"
+  abstract_id: "RETURN_AFTER_SUBMISSION"
+rights:
+  policy: "All Rights Reserved - same public rights policy as MRSP V1"
+  zenodo: "Use custom All Rights Reserved if platform requires a license field"
+  ssrn: "All Rights Reserved"
+integrity:
+  ai_use_disclosure: >-
+    Generative AI tools were used to assist with literature discovery, research workflow design, code and artifact preparation, drafting, editing, and translation. All scientific claims, evidence boundaries, numerical results, and final publication decisions were reviewed under the author's supervision. The author remains fully responsible for the content of this report.
+  funding_statement: "OMIT_UNLESS_PLATFORM_REQUIRES_USER_FACT"
+  conflict_statement: "OMIT_UNLESS_PLATFORM_REQUIRES_USER_FACT"
+  ethics_statement: "OMIT_UNLESS_PLATFORM_REQUIRES_USER_FACT"
+release_authorization:
+  repository_public_authorized: true
+  archive_publish_authorized: true
+  preprint_submit_authorized: true
