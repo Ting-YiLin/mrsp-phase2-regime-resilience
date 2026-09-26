@@ -239,6 +239,6 @@ Selected context:
 
 Repository: https://github.com/Ting-YiLin/mrsp-phase2-regime-resilience  
 Zenodo DOI: 10.5281/zenodo.22969898  
-Zenodo record: https://zenodo.org/uploads/22969898
+Zenodo record: https://zenodo.org/records/22969898
 
 Copyright (c) 2026 Ting-Yi Lin. All rights reserved.

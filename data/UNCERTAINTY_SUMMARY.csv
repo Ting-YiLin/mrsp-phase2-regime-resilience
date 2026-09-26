@@ -1,7 +1,6 @@
 cohort,stratum,cluster_unit,mean_delta_pp,ci95_low_pp,ci95_high_pp,estimand
 Representative,ALL,household,0.886989,0.6404859352811556,1.1255021116241333,D28-V1 accuracy delta
 Representative,ALL,product_set,0.886989,0.06714023931051746,2.1514218837925076,D28-V1 accuracy delta
-Department Challenge,HIGH_SHOCK,product_set,1.466414,0.060676435475796216,3.237566209136956,D28-V1 accuracy delta
 Representative,SIGNAL_3,household,9.522312589377172,7.54172529421897,11.56101034028128,D28-V1 accuracy delta
 Representative,SIGNAL_3,product_set,9.05898214620346,1.7531886770042622,17.667504605380557,D28-V1 accuracy delta
 Representative,HIGH_SHOCK,household,3.496227694150488,2.7234892194684193,4.295136382914513,D28-V1 accuracy delta

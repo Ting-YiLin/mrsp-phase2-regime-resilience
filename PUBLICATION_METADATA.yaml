@@ -3,7 +3,7 @@ project:
   short_name: "MRSP Phase 2"
   full_title: "When History Stops Working: Selective Prediction and Regime Resilience in Consumer Forecasting"
   subtitle: "Why knowing what to predict is not enough - and how recent market signals can protect forecasts when historical patterns begin to fail"
-  version: "1.0.0"
+  version: "1.0.1"
   publication_date: "2026-09-26"
   goal: "Practitioner-facing empirical research and decision framework"
 author:
@@ -21,12 +21,16 @@ archive:
   provider: "Zenodo"
   doi: "10.5281/zenodo.22969898"
   doi_url: "https://doi.org/10.5281/zenodo.22969898"
-  record_url: "https://zenodo.org/uploads/22969898"
+  record_url: "https://zenodo.org/records/22969898"
   resource_type: "publication/report"
 preprint:
   provider: "SSRN"
-  submission_id: "RETURN_AFTER_SUBMISSION"
-  abstract_id: "RETURN_AFTER_SUBMISSION"
+  submission_id: null
+  submission_id_status: "Not separately displayed on the submission receipt or My Papers row; do not substitute the Abstract ID."
+  abstract_id: "7526699"
+  abstract_url: "https://papers.ssrn.com/abstract=7526699"
+  submission_status: "PRELIMINARY_UPLOAD"
+  submission_received: true
 rights:
   policy: "All Rights Reserved - same public rights policy as MRSP V1"
   zenodo: "Use custom All Rights Reserved if platform requires a license field"

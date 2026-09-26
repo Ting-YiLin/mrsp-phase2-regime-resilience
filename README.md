@@ -45,7 +45,7 @@ H&M D28 is **development evidence, not independent V2 external validation**. The
 ## Archive and citation
 
 Zenodo DOI: 10.5281/zenodo.22969898  
-Zenodo record: https://zenodo.org/uploads/22969898
+Zenodo record: https://zenodo.org/records/22969898
 
 This repository is a companion to the earlier MRSP V1 selective-prediction project: https://github.com/Ting-YiLin/mrsp-predictability
 
